@@ -1,0 +1,12 @@
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+
+*.zip
+*.parquet
+*.csv
+*.xlsx
