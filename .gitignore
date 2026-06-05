@@ -6,4 +6,5 @@ __pycache__/
 data/raw/
 
 *.zip
-*.parquet
+*.parquetdata/processed/gtfs_schedule_stop_level.csv
+data/processed/mmtis_delay_analysis.csv
